@@ -14,7 +14,7 @@
     },
     "com.unity.2d.common": {
       "version": "6.0.4",
-      "depth": 2,
+      "depth": 1,
       "source": "registry",
       "dependencies": {
         "com.unity.2d.sprite": "1.0.0",
@@ -178,6 +178,15 @@
       "source": "registry",
       "dependencies": {
         "com.unity.modules.physics": "1.0.0"
+      },
+      "url": "https://packages.unity.cn"
+    },
+    "com.unity.recorder": {
+      "version": "2.5.7",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.timeline": "1.0.0"
       },
       "url": "https://packages.unity.cn"
     },

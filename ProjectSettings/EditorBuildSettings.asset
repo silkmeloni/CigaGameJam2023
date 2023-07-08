@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/MyTest.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/GabrielBissonnette/Primo - Main Menu Pack/Scenes/Empty.unity
+    guid: b6450284737785746a4537b6b758138e
+  - enabled: 1
+    path: Assets/Scenes/Day1-Expierment.unity
+    guid: c32f85f0b905a32498462769a9120252
   m_configObjects: {}
